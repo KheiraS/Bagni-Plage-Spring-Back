@@ -1,0 +1,25 @@
+2024-02-10 17:11:11.261  INFO 10672 --- [main] f.h.f.p.c.r.ParasolRestControllerTest    : Starting ParasolRestControllerTest using Java 17.0.4.1 on LAPTOP-1R7IEH5F with PID 10672 (started by Kheira in C:\Users\Kheira\eclipse-workspace\plages20230912)
+2024-02-10 17:11:11.263  INFO 10672 --- [main] f.h.f.p.c.r.ParasolRestControllerTest    : No active profile set, falling back to 1 default profile: "default"
+2024-02-10 17:11:13.795  INFO 10672 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-10 17:11:14.064  INFO 10672 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 252 ms. Found 9 JPA repository interfaces.
+2024-02-10 17:11:15.794  INFO 10672 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-10 17:11:15.968  INFO 10672 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.15.Final
+2024-02-10 17:11:16.404  INFO 10672 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-02-10 17:11:16.813  INFO 10672 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-02-10 17:11:17.279  INFO 10672 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-02-10 17:11:17.318  INFO 10672 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2024-02-10 17:11:19.214  INFO 10672 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-02-10 17:11:19.235  INFO 10672 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-10 17:11:22.310  WARN 10672 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-02-10 17:11:23.491  INFO 10672 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-02-10 17:11:27.712  INFO 10672 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-10 17:11:28.041  INFO 10672 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@424ebf5b, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@42cef0af, org.springframework.security.web.context.SecurityContextPersistenceFilter@72ae1007, org.springframework.security.web.header.HeaderWriterFilter@74471600, org.springframework.web.filter.CorsFilter@44992466, org.springframework.security.web.authentication.logout.LogoutFilter@19bad88, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@75dc995f, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@58ca1cad, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@329a27ae, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@55bf08a5, org.springframework.security.web.session.SessionManagementFilter@44bb6856, org.springframework.security.web.access.ExceptionTranslationFilter@3dedc8b8, org.springframework.security.web.access.intercept.AuthorizationFilter@15eaa2ce]
+2024-02-10 17:11:30.867  INFO 10672 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2024-02-10 17:11:30.868  INFO 10672 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-02-10 17:11:30.873  INFO 10672 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 4 ms
+2024-02-10 17:11:31.486  INFO 10672 --- [main] f.h.f.p.c.r.ParasolRestControllerTest    : Started ParasolRestControllerTest in 20.911 seconds (JVM running for 23.54)
+2024-02-10 17:11:32.900  INFO 10672 --- [main] f.h.f.p.i.AjoutDonneesInitiales          : Ajout de 100 clients
+2024-02-10 17:11:43.648  INFO 10672 --- [main] f.h.f.p.i.AjoutDonneesInitiales          : nb de clients ajoutés:100
+2024-02-10 17:11:45.823  INFO 10672 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-10 17:11:45.827  INFO 10672 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-02-10 17:11:45.833  INFO 10672 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

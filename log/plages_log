@@ -1,0 +1,10 @@
+2024-01-29 02:06:56.293  WARN 11276 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h25s404ms867µs100ns).
+2024-01-29 08:40:13.197  WARN 11276 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6h33m22s801ms755µs200ns).
+2024-01-29 12:37:38.514  WARN 11276 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h24s411ms19µs600ns).
+2024-01-29 15:18:02.154  WARN 11276 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h40m29s826ms298µs800ns).
+2024-01-29 15:43:26.829  WARN 11276 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m54s307ms162µs900ns).
+2024-01-29 18:22:21.673  WARN 11276 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h56m52s630ms787µs200ns).
+2024-01-29 19:09:59.574  WARN 11276 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m527ms13µs300ns).
+2024-01-29 19:18:24.310  WARN 11276 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m30s347ms436µs200ns).
+2024-01-29 20:08:34.726  WARN 11276 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m10s31ms776µs200ns).
+2024-01-29 22:17:15.129  WARN 11276 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h53m39s841ms744µs400ns).
